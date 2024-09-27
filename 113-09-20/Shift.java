@@ -1,4 +1,4 @@
-package cc.openhome;
+
 
 public class Shift {
     public static void main(String[] args) {
@@ -9,3 +9,11 @@ public class Shift {
         System.out.printf( "2 ªº 3 ¦¸¤è: %d%n", number << 3); 
     }
 }
+
+
+// 2 -> 00000010
+// 2 << 1 ->  00000100 => 4
+// 2 << 2 -> 000010000 => 8
+// 5 -> 00000101
+// 5 << 1 -> 00001010 => 10
+// 5 << 2 -> 00010100 => 20

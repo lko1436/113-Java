@@ -1,4 +1,4 @@
-package cc.openhome;
+
 
 public class Odd {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Odd {
             System.out.printf("%d 琌计%n", input); 
         } 
         else {
-            System.out.printf("%d 琌案计%n", input); 
+            System.out.printf("%d ぃ琌计%n", input); 
         }
     }
 }

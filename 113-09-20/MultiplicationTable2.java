@@ -1,4 +1,3 @@
-package cc.openhome;
 
 public class MultiplicationTable2 {
     public static void main(String[] args) {
